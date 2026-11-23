@@ -8,6 +8,7 @@
 <a href="https://facebook.com/therafiniac"><img src="https://img.shields.io/badge/Facebook-1E1E2E?style=for-the-badge&logo=facebook&logoColor=89B4FA" /></a>
 <a href="https://x.com/therafiniac"><img src="https://img.shields.io/badge/X-1E1E2E?style=for-the-badge&logo=x&logoColor=CDD6F4" /></a>
 <a href="mailto:therafiniac@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=FAB387" /></a>
+<a href="https://ko-fi.com/therafiniac"><img src="https://img.shields.io/badge/Ko--fi-1E1E2E?style=for-the-badge&logo=kofi&logoColor=FF5E5B" /></a>
 
 <br><br>
 
@@ -166,6 +167,12 @@ Alongside that, researching architecture for a regional OTT platform — React N
 <a name="lets-build-something-worth-shipping"></a>
 
 **Let's build something worth shipping.** &nbsp;·&nbsp; [rafiera.com](https://rafiera.com)
+
+<br>
+
+<a href="https://ko-fi.com/therafiniac" target="_blank"><img height="36" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Buy Me a Coffee at ko-fi.com" /></a>
+
+<br><br>
 
 <sub>Bengali · English · Hindi</sub>
 
